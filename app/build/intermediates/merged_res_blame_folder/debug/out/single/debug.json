@@ -1,0 +1,774 @@
+[
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable_nav_background.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable\\nav_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_trends3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\trends3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_message.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_favorites.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_message.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_trends2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_trends.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_trends3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\trends3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_women.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_microphone.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_write.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_user_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_social.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_trends3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\trends3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_trends2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_arrow.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_message.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_back.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_arc_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_trends3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\trends3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_message.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable_orange_background_button.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable\\orange_background_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_social.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_write.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_arrow.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_social.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_trends.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_notification.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_user_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_favorites.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_trends.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_user_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_btn_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_btn_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_trends.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_arc_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_user_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_btn_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_microphone.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_user_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_notification.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_user_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_write.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_notification.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_btn_4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_message.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_user_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_trends3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\trends3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_user_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_btn_5.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_user_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\user_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_microphone.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_favorites.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_trends.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_arc_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\arc_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_social.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_btn_6.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_arc_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\arc_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_favorites.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_arrow.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_favorites.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable_circle_background_white.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable\\circle_background_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_social.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_btn_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_write.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_user_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_trends2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_women.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_trends2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_favorites.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_user_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_notification.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_message.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_write.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_notification.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_microphone.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_trends3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\trends3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_microphone.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_arc_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_arc_3.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\layout_viewholder_trend_list.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\layout\\viewholder_trend_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_trends.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_social.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xhdpi_women.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xhdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_microphone.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_women.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxxhdpi_write.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxxhdpi\\write.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_notification.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_trends2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-xxhdpi_trends2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-xxhdpi\\trends2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-ldpi_women.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-ldpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-mdpi_women.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-mdpi\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\drawable-hdpi_user_2.png.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\drawable-hdpi\\user_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mauri\\.gradle\\daemon\\8.0\\com.example.project160.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

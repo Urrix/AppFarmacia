@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_blue">#32357A</color>
+    <color name="green">#3AA3A5</color>
+    <color name="orange">#FE6900</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">project160</string>
+    <style name="Base.Theme.Project160" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <item name="colorPrimaryDark">@color/green</item>
+    </style>
+    <style name="Theme.Project160" parent="Base.Theme.Project160"/>
+</resources>
